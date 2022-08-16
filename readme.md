@@ -1,5 +1,7 @@
 ## Project 0 to learn HTML, CSS.
 
+[https://tushar-ojha-blog-project-0.netlify.app/](Go Live Buddy!)
+
 **We need to build ugly first in order to build beautiful later!**
 
 Learnings from this project:
