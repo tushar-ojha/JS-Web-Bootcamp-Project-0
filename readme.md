@@ -19,6 +19,8 @@ Learnings from this project:
     - We should try to give dimentions in %age to keep things responsive and always give min and max height width along with that.
 
     - position: fixed keeps things fixed according to the viewport.
+    
+    - We need to use position with top/bottom/left/right otherwise element doesn't show up.
 
     - We can covert inline elements to block elements and vice versa.
 
